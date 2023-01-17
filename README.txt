@@ -1,4 +1,4 @@
-Hey so this is our project, I couldn't get the videos to play in the game so just play them when the dialogue boxes say *PLAY VIDEO 1* or whatever.
+Hey so this is our project, I couldn't get the videos to play in the game so just play them when the dialogue boxes say *PLAY VIDEO X*.
 
 to play the game, go into Resources and run SFMLProject.exe.
 
